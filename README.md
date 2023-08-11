@@ -18,4 +18,22 @@ Creating a snake game project can help you learn programming fundamentals and ba
    
 While a snake game might seem simple, it covers many core programming concepts that can be applied to more complex projects later on. After mastering the basics, you can expand your project by adding features like levels, obstacles, power-ups, or even transitioning to more advanced game development projects.
 
-If you're looking for a project idea involving actual snakes and programming, you might consider something related to data analysis or simulation involving snake behavior. However, working with real snakes would likely involve ethical and safety considerations.
+If you're looking for a project idea involving actual snakes and programming, you might consider something related to data analysis or simulation involving snake behavior. However, working with real snakes would likely involve ethical and safety consideration. 
+
+
+# prerequisites
+1 / python 3.x 
+2 / Python Environment Setup
+3 / pygame library install (pip install pygame)
+
+
+# setup 
+1 / install the required libraries by using the following command :
+2 / setup your environment  to make sure it in command prompt
+    + here the link for setup the environment and install pygame in command prompt: https://youtu.be/EKjALzLLgVs?si=LSvAQhHMzZVrU4gu
+    don't forget to copy my file in this GIT (myenv, _pycache_) and exact it to our folders. 
+# contact 
+
+oeng chihea via email : chihea.oeng22@kit.edu.kh 
+
+    
