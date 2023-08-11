@@ -37,6 +37,9 @@ If you're looking for a project idea involving actual snakes and programming, yo
 
     + here the link for setup the environment and install pygame in command prompt: https://youtu.be/EKjALzLLgVs?si=LSvAQhHMzZVrU4gu
     don't forget to copy my folder in this GIT (myenv, _pycache_) and exact it to our folders. 
+
+   + here the video for download the folder in github : https://youtu.be/6dnzDILMobU?si=ZsEZRAf_xipUf6py
+    
 # contact 
 
 oeng chihea via email : chihea.oeng22@kit.edu.kh 
